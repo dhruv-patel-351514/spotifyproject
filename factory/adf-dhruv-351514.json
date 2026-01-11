@@ -1,0 +1,9 @@
+{
+	"name": "adf-dhruv-351514",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a02ea8d-3908-4508-985e-9514c7c9a7ea",
+		"tenantId": "5f103ed9-4066-45f4-a7e0-78f239b1e7d5"
+	}
+}
