@@ -1,0 +1,33 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-dhruv-351514"
+		},
+		"LS_ADLS_accountKey": {
+			"value": ""
+		},
+		"LS_AzureSQL_password": {
+			"value": ""
+		},
+		"LS_ADLS_properties_typeProperties_url": {
+			"value": "https://adls351514.dfs.core.windows.net/"
+		},
+		"LS_AzureSQL_properties_typeProperties_server": {
+			"value": "dhruv.database.windows.net"
+		},
+		"LS_AzureSQL_properties_typeProperties_database": {
+			"value": "appdb"
+		},
+		"LS_AzureSQL_properties_typeProperties_userName": {
+			"value": "sqladmin"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
